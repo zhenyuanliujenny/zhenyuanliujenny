@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Zhenyuan Liu
 
-<!--
-**zhenyuanliujenny/zhenyuanliujenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Columbia University master's student in Quantitative Methods
+in the Social Sciences, with a focus on Data Science.
 
-Here are some ideas to get you started:
+I'm seeking Data Analyst, Business Analyst, and Data Science
+internships where I can apply quantitative methods to real-world
+business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** Python · SQL · R · Tableau
+
+## Selected Projects
+
+### [Volatility and Tail Risk Demo](https://github.com/zhenyuanliujenny/equity-tail-risk-analysis)
+An independent Python demonstration of GARCH volatility simulation,
+Monte Carlo methods, and VaR/CVaR using synthetic data.
+
+### [Korean Media and Language Analysis](https://github.com/zhenyuanliujenny/korean-media-analysis)
+A team dissertation examining media exposure and implicit language
+knowledge using R, hypothesis tests, and hierarchical regression.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/zhenyuan-jenny-liu-a9340a334)
